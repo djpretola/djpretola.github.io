@@ -2,8 +2,9 @@
 theme: jekyll-theme-midnight
 
 #Configuration
-title: David Pretola Homepage
-description: This page serves to be my personal homepage.
+title: David Pretola's Homepage
+description: This page serves as my personal homepage.
+show_downloads: false #do not provide a download URL
 
 #Defaults
 defaults:
